@@ -1,0 +1,1 @@
+Hello, my name is Brent Wade. This is a text file for programming assignment 2. Each test text file gets bigger in sequential order (test0-4).
